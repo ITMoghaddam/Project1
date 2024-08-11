@@ -4,5 +4,5 @@ y = sin(x);
 z = cos(x);
 plot(x,y)
 hold on;
-plot(x,z)
+plot(x,2*z)
 plot(x,2*y)
