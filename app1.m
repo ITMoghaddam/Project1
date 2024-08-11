@@ -5,4 +5,4 @@ z = cos(x);
 plot(x,y)
 hold on;
 plot(x,2*z)
-plot(x,2*y)
+plot(x,3*y)
